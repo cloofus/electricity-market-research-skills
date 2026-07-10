@@ -10,6 +10,7 @@ When using this repository with an AI assistant, start with the following instru
 
 ```text
 Please read the README.md of this repository first. Then choose the most relevant skill according to my task, read the corresponding SKILL.md, and complete the task strictly following that workflow.
+```
 
 ## AI Routing Instruction
 
